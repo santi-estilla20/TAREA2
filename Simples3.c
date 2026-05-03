@@ -5,7 +5,7 @@ int main()
     float  pesos;
     float  dolares;
    
-    dolares, pesos = 0;
+    dolares=0 , pesos = 0;
     
    printf("Ingrese la cantidad de dolares:");
    scanf ("%f", &dolares);
