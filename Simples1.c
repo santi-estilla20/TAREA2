@@ -2,13 +2,13 @@
 
 int main() 
 {
-    int  num1;
-    int  num2;
+    int num1;
+    int num2;
     int suma;
     int resta;
     int mult;
     
-    num1, num2, suma, resta, mult = 0;
+    num1 = 0, num2 = 0, suma = 0, resta = 0, mult = 0;
     
    printf("Ingrese un numero entero:");
    scanf ("%d", &num1);
