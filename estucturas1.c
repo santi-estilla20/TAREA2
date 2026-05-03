@@ -5,7 +5,7 @@ int main ()
     int num;
     int tabla;
     
-    num = 0; tabla = 0;
+    num = 0, tabla = 0;
     
     printf("Ingrese un numero entero: ");
     scanf("%d", &num);
