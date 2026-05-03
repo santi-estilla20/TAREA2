@@ -6,8 +6,7 @@ int main()
     float  circun;
     int radio;
    
-    
-    area, circun, radio = 0;
+    area = 0, circun = 0, radio = 0;
     
    printf("Ingrese el valor de radio:");
    scanf ("%d", &radio);
